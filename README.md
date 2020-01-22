@@ -20,6 +20,8 @@ INSTRUCTIONS:
 First, Type the width and the height of the
 window you want into the dialog box
 (tuple separated by a comma, no parentheses)
+then, type the position on the screen you want
+the window to be at (same tuple format).
 Type a 3 number RGB value in the window
 (Individual numbers separated by a comma)
 , and press ENTER to change the Bar Colour,
