@@ -13,7 +13,7 @@ a 3rd party driver (Virtual Audio Cable)
 which does not require any configuration.
 It only works on Windows for now, however
 it has the potential to be compatible with
-MacOS and most Linux Distros. I may add
+MacOS (update, it works on Mac) and most Linux Distros. I may add
 an ANSI Terminal mode for ricing as well.
 
 INSTRUCTIONS:
