@@ -8,13 +8,15 @@ PyVis developed by Ben Cochrane
 
 This program is a visualizer which
 does not require an audio processing server
-(like MPD or pulseaudio), instead running on
-a 3rd party driver (Virtual Audio Cable)
+(like MPD or pulseaudio), instead processes
+audio inputs aotomatically. if you want to
+make it display desktop audio, you can
+download a 3rd party driver ( e. g Virtual Audio Cable)
 which does not require any configuration.
 It only works on Windows for now, however
 it has the potential to be compatible with
-MacOS (update, it works on Mac) and most Linux Distros. I may add
-an ANSI Terminal mode for ricing as well.
+MacOS (update, it works on Mac) and most Linux Distros.
+I may add an ANSI Terminal mode for ricing as well.
 
 INSTRUCTIONS:
 First, Type the width and the height of the
