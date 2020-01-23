@@ -4,6 +4,15 @@ I plan to put a lot of python scripts here, so you can rice not only Linux, but 
 <b>NUMBER 1:</b> PyVisV1, a desktop visualizer. everything is explained in the code itself, you can import everything
 in the code yourself, this may change once i figure out how to use this bloody site. Meanwhile here is the comment at the start of the program.
 
+WINDOWS USERS:
+ - python 3.8 is required to run this
+ - pip3 install pygame pyaudio numpy 
+ - you may need to install visual studio C++ (Version 14+)
+
+MACOS USERS:
+ - python 3.8 is required to run this
+ - pip3 install pygame pyaudio numpy
+
 PyVis developed by Ben Cochrane
 
 This program is a visualizer which
@@ -31,3 +40,5 @@ or press RSHIFT to change the background
 colour. The J, K and L buttons change the
 placement of the bars, and the D button
 makes it go disco.
+
+
